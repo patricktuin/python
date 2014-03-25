@@ -17,7 +17,7 @@ for each_line in all_line:
 	print (str(counter) + " " + username)
 	output_file.write (str(counter) + " " + username + "\n")
 
-#input_file.close
-#output_file.close
+input_file.close
+output_file.close
 
 
